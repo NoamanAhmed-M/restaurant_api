@@ -1,0 +1,32 @@
+# Core dependencies
+fastapi==0.109.1
+uvicorn==0.27.0
+
+# Database
+sqlalchemy==2.0.25
+psycopg2-binary==2.9.9
+asyncpg==0.29.0
+databases[postgresql]==0.8.0
+
+# Authentication & Security
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
+python-multipart==0.0.6
+
+# Environment management
+python-dotenv==1.0.0
+
+# Data validation
+pydantic==2.6.1
+pydantic-settings==2.1.0
+
+
+# Optional but recommended
+aiofiles==23.2.1  # For file uploads if needed
+email-validator==2.0.0.post2  # For email validation
+python-dateutil==2.8.2  # For date handling
+
+# Development tools (optional)
+pytest==8.0.2
+httpx==0.26.0
+pytest-asyncio==0.23.5
