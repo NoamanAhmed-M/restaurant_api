@@ -4,7 +4,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python)
 
-A complete backend system for restaurant management built with FastAPI and PostgreSQL.
+An ongoing backend system for restaurant management built with FastAPI and PostgreSQL.
 
 ## Features
 
